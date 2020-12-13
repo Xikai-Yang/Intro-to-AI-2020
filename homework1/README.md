@@ -1,7 +1,7 @@
 ## this is the first homework
 
-corpusParser.py：Able to process the original corpus, and count the frequency of single-word, double-word, and triple-word and save accordingly
-Node.py: one single Node in the Viterbi algorithm
+corpusParser.py：Able to process the original corpus, and count the frequency of single-word, double-word, and triple-word and save accordingly<br>
+Node.py: one single Node in the Viterbi algorithm<br>
 Layer.py: one layer in the Viterbi algorithm
 Network.py: implement the entire network of the Viterbi algorithm, and can use the Viterbi algorithm to generate the corresponding answer.
 main.py: Support the command line. We can run the input method such as: python main ../data/input.txt ../data/output.txt
