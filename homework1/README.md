@@ -24,5 +24,9 @@ parseCorpus.py: The model training may take a long time (5h+). If you want to sk
 
 /data: The folder is used to store the initial corpus. However, due to the large size of initial corpus, I deleted some txt files in sina_news_gbk, and the initial corpus can be put back into the folder during runtime.
 
-/result: This folder is empty, but it actually stores the results obtained from the training corpus including content.txt/single_word_db.txt/double_word_db.txt/triple_word_db.txt/word_count.txt. And as I said above, you can download them from my Tsinghua cloud share.
+/result: This folder is empty, but it actually stores the results obtained from the training corpus including content.txt / single_word_db.txt / double_word_db.txt / triple_word_db.txt / word_count.txt. And as I said above, you can download them from my Tsinghua cloud share.
+
+/test: The test folder is used to store the test set provided from the professor and the prediction output of our trained model on the test set, in which output_2gram is the output of the 2-gram model, and output_3gram is the output of the <br>3-gram<br> model
+
+
 
