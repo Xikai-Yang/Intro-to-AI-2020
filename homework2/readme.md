@@ -1,3 +1,19 @@
+## Game introduction
+
+Connect Four (also known as Four Up, Plot Four, Find Four, Four in a Row, Four in a Line, Drop Four, and Gravitrips in the Soviet Union) is a two-player connection board game, in which the players choose a color and then take turns dropping colored discs into a vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
+
+Basic game rules:
+
+     Both sides take turns
+     Only place at the top of the column each time
+     The first to complete the quadruple (or more than quadruple) wins
+     If the winner has not been decided until the board is full, it is a tie
+
+However, since the must-win strategy of Connect Four has been proved by Victor Allis in 1988, this Connect Four game adds some extended rules to the basic game rules:
+
+     Random board size: The height and width of the board are random numbers in the range [9, 12]
+     Randomly generate non-placement points: when generating the chessboard, randomly generate a non-placement point; when a piece is filled below the non-placement point, the next time it is placed in the column, it should fall above the non-placement point
+
 ## 游戏简介
 
 四子棋是一种两人对弈的游戏，任何一方先令自己的四个棋子在横、竖、斜方向上连成一条直线，即可获胜。  
