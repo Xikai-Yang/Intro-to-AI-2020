@@ -1,4 +1,8 @@
-## this is the first homework
+## homework1 Implement a Chinese pinyin input method
+
+input: qing hua da xue ji suan ji xi
+
+output: 清华大学计算机系
 
 corpusParser.py：Able to process the original corpus, and count the frequency of single-word, double-word, and triple-word and save accordingly
 
