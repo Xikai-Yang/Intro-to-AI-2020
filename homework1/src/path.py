@@ -1,0 +1,12 @@
+corpus_directory_path = "../data/sina_news_gbk/"
+pinyin_to_chinese_path = "../data/拼音汉字表_12710172.txt"
+single_word_db_path = '../result/single_word_db.txt'
+double_word_db_path = '../result/double_word_db.txt'
+triple_word_db_path = '../result/triple_word_db.txt'
+word_count_path = '../result/word_count.txt'
+input_path = '../data/拼音汉字表_12710172/input.txt'
+content_path = '../result/content.txt'
+pinyin_lib_path = '../data/拼音汉字表_12710172/一二级汉字表.txt'
+test_input_path = '../test/input_official.txt'
+test_answer_path = '../test/answer_official.txt'
+test_output_path = '../test/output2_official.txt'
